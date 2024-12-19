@@ -35,6 +35,7 @@ Preprocessing Pipelines: Includes text cleaning, tokenization, and padding.
 Metrics: Provides accuracy, precision, recall, F1-score, and confusion matrix for evaluation.
 
 Dataset
+![alt text](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/data.png?raw=true)
 
 Source: A public dataset containing labeled phishing and legitimate emails.
 
@@ -85,23 +86,22 @@ Place the dataset in the data/ directory.
 Update the dataset path in the configuration file.
 
 Train the Model
-Run the training script:
-
-python train.py --epochs 10 --batch-size 32
 
 Evaluate the Model
-Evaluate the model on the test set:
-
-python evaluate.py --model checkpoint/model.pth
 
 Visualize Results
-Generate visualizations for metrics like accuracy and loss:
-
-python visualize.py
 
 Results
 
 The model achieved high accuracy in detecting phishing emails.
+
+![alt text](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/loss.png?raw=true)
+
+![alt text](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/accuracy.png?raw=true)
+
+![alt text](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/confuse.png?raw=true)
+
+![alt text](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/recall.png?raw=true)
 
 Evaluation metrics such as precision, recall, and F1-score are reported in the logs.
 
