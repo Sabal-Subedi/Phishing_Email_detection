@@ -74,8 +74,7 @@ pip install -r requirements.txt
 
 Clone the Repository
 
-git clone https://github.com/username/phishing-email-detector
-cd phishing-email-detector
+git clone https://github.com/Sabal-Subedi/Phishing_Email_detection
 
 Usage
 
