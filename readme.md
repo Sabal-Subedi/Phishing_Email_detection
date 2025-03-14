@@ -2,7 +2,7 @@
 
 This project implements a phishing email detection model using a Bidirectional Long Short-Term Memory (BiLSTM) network and binary cross-entropy loss function. The model is designed to classify emails as either legitimate or phishing.
 
-## Table of Contents
+### Table of Contents
 
 - Project Overview
 - Features
@@ -64,7 +64,7 @@ The model achieved high accuracy in detecting phishing emails.
 - [Accuracy curve here](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/accuracy.png?raw=true)
 - [Confusion matrix here](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/confuse.png?raw=true)
 - [Recall here](https://github.com/Sabal-Subedi/Phishing_Email_detection/tree/main/images/recall.png?raw=true)
-Evaluation metrics such as precision, recall, and F1-score are reported in the logs.
+- Evaluation metrics such as precision, recall, and F1-score are reported in the logs.
 
 ### Future Work
 - Experiment with advanced architectures like Transformers or BERT.
