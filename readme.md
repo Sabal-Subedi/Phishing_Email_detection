@@ -1,4 +1,4 @@
-# Phishing Email Detector
+# SafeInbox-AI-Against-Phishing
 
 This project implements a phishing email detection model using a Bidirectional Long Short-Term Memory (BiLSTM) network and binary cross-entropy loss function. The model is designed to classify emails as either legitimate or phishing.
 
