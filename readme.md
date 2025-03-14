@@ -47,7 +47,7 @@ Phishing attacks are one of the most prevalent forms of cybercrime. This project
 - Install required dependencies using:
 - pip install -r requirements.txt
 - Clone the Repository
-  - git clone https://github.com/Sabal-Subedi/Phishing_Email_detection
+  - git clone https://github.com/Sabal-Subedi/SafeInbox-AI-Against-Phishing
 
 ### Usage
 - Prepare the Dataset
